@@ -1,0 +1,1 @@
+shasum -c checksums
