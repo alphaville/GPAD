@@ -32,3 +32,9 @@ CBLAS (optional)  - CBLAS is an optional dependency. You may specify the
                     option `no_blas` during compilation if you need to compile
                     without BLAS. Otherwise, specify the path to your CBLAS
                     installation in make.m.
+                    
+                    
+Please cite this work as follows:
+P. Patrinos, A. Bemporad, "An accelerated dual gradient-projection algorithm
+for embedded linear model predictive control," IEEE Transactions on Automatic 
+Control, 59 (1) (2014), pp. 18–33.
