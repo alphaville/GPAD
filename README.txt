@@ -38,3 +38,7 @@ Please cite this work as follows:
 P. Patrinos, A. Bemporad, "An accelerated dual gradient-projection algorithm
 for embedded linear model predictive control," IEEE Transactions on Automatic 
 Control, 59 (1) (2014), pp. 18–33.
+
+Licence:
+This is a free software developed by Pantelis Sopasakis and distributed under 
+the terms of the GNU GPL v3 licence.
